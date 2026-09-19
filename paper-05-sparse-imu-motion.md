@@ -4,10 +4,8 @@
 **Manuscript Number:** ROBOT-D-26-02661
 **Status:** Under Review
 
-**Corresponding Author:** Hassan Nosrati
-
 **Authors:**
-Hassan Nosrati; Majid Khorramgah; Mojtaba Rahemi; Amir Hossein Ahmadi
+Majid Khorramgah; Mojtaba Rahemi; Amir Hossein Ahmadi; Hassan Nosrati
 
 ## Overview
 
